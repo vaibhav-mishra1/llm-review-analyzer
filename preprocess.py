@@ -6,7 +6,7 @@ df = pd.read_csv("product_reviews.csv", encoding="utf-8")
 
 def clean_text(text):
     if pd.isna(text):
-        print("exicuted 1")
+        # print("exicuted 1")
         return ""
     
     text = str(text)
