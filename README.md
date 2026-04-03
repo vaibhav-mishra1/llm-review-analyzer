@@ -14,6 +14,12 @@ The configured product URL is:
 
 <!-- It is also present in `.env` as `PRODUCT_URL`. -->
 
+## A Short Demonstration Video
+
+A short video (3 minutes) demonstrating application's functionality, showcasing the scraping process, LLM interaction, and the final output.
+
+`https://drive.google.com/file/d/1iAY47oOZTt7n-F7bJ2Oy67x8Dsp31kMH/view?usp=sharing`
+
 ## Project Structure
 
 - `01_products.ipynb`: Scrapes review pages from Flipkart and saves raw reviews.
